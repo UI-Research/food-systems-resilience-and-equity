@@ -1,0 +1,12 @@
+# Ignore everything
+*.*
+# Include .gitignore and README.md
+!.gitignore
+!README.md
+# Include R and Python files
+!*.R
+!*.py
+!*.Rproj
+# Include quarto notebooks
+!*.qmd
+.Rproj.user
