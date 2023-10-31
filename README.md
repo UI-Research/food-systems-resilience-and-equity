@@ -2,8 +2,7 @@
 
 This repository contains the code necessary to generate the county-level Food Systems Resilience and Equity dataset that powers [this Rshiny application](https://urban-institute.shinyapps.io/food-systems-clustering/).
 
-For more information on the raw data sources and methodology, see our [technical appendix].
-For more information on the final harmonized datasets created by the code in this repo, see below. To download these data, visit Urban's [data catalog](https://datacatalog.urban.org/dataset/food-systems-resilience-and-equity).
+For more information on the raw data sources and methodology and to download the final harmonized datasets, visit Urban's [data catalog](https://datacatalog.urban.org/dataset/food-systems-resilience-and-equity).
 
 ## Harmonized Datasets
 - `raw_and_percentile.csv`: Raw and percentile county-level data with a range of indicators on food systems resilience and equity
