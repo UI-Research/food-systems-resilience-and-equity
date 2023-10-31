@@ -16,3 +16,10 @@ For more information on the raw data sources and methodology and to download the
 - `03_generate-knn.R`: this runs a 5-nearest neighbors analysis for each county separately for each of three different domains: food access, food production, and climate hazards
 - `04_shiny-app-helper.R`: this is a helper function for the Shiny app that does some final data manipulation
 - `app.R`: this is the script that builds the Shiny application
+
+## Contributors 
+Research team: Kassandra Martinchek, Judah Axelrod, Sonia Torres Rodríguez, Amy Rogin, Noah Johnson, Elaine Waxman
+
+Shiny Application Development: Amy Rogin
+
+Code Review: Will Curran-Groome
